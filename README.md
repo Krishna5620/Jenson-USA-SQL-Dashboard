@@ -64,10 +64,10 @@ This project analyzes Jenson USA sales data to identify business insights, custo
 <img width="1041" height="558" alt="image" src="https://github.com/user-attachments/assets/c55a82e3-5952-400a-b00b-8e5b7e3353da" />
 
 ## 9.Find the median value of the price list.
-<img width="979" height="554" alt="image" src="https://github.com/user-attachments/assets/1d1c8ff5-0d33-4635-97af-f724b54cb5b6" />
+<img width="977" height="557" alt="image" src="https://github.com/user-attachments/assets/2090c82d-7a16-4cf3-aeec-cce2c52f7be1" />
 
 ## 10.List all products that have never been ordered.(use Exists)
-<img width="1009" height="472" alt="image" src="https://github.com/user-attachments/assets/31b4f612-c81f-4198-ba41-93545b0c6013" />
+<img width="1003" height="467" alt="image" src="https://github.com/user-attachments/assets/d5f284a5-bd9d-48f6-91a6-4e8a14066939" />
 
 ## 11.List the names of staff members who have made more sales than the average number of sales by all staff members.
 <img width="884" height="553" alt="image" src="https://github.com/user-attachments/assets/6245702c-eb68-4f08-9d0a-d49c761b5722" />
