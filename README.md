@@ -40,7 +40,10 @@ This project analyzes Jenson USA sales data to identify business insights, custo
 - Project PDF
 
 ## 1.Find the total number of products sold by each store along with the store name.
-<img width="1083" height="387" alt="image" src="https://github.com/user-attachments/assets/b9744b9a-1be3-428c-93ec-c8b235eed6dd" />
+<img width="1079" height="388" alt="image" src="https://github.com/user-attachments/assets/3e72d7b4-65df-40ad-9914-7c0cfd40064b" />
+
+
+
 
 
 ## Conclusion
