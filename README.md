@@ -58,7 +58,7 @@ This project analyzes Jenson USA sales data to identify business insights, custo
 <img width="1141" height="599" alt="image" src="https://github.com/user-attachments/assets/8877b9ca-d534-4ccf-a02d-bf1523ab292a" />
 
 ## 7.Find the names of staff members who have not made any sales.
-<img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/4fcf7fdc-59d9-4ab7-b307-c8ba1ec169f6" />
+<img width="941" height="461" alt="image" src="https://github.com/user-attachments/assets/419fc2cf-a63b-49b2-a63c-df2878ddbbd1" />
 
 ## 8.Find the top 3 most sold products in terms of quantity.
 <img width="1041" height="558" alt="image" src="https://github.com/user-attachments/assets/c55a82e3-5952-400a-b00b-8e5b7e3353da" />
