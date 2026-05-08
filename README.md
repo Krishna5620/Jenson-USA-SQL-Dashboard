@@ -49,7 +49,7 @@ This project analyzes Jenson USA sales data to identify business insights, custo
 <img width="1156" height="593" alt="image" src="https://github.com/user-attachments/assets/f9bd1a41-2d03-4e99-8bb4-9fb87e087014" />
 
 ## 4.Find the customer who spent the most money on orders.
-<img width="1166" height="572" alt="image" src="https://github.com/user-attachments/assets/cb306f53-bca3-465b-b183-8e41e45f5630" />
+<img width="1053" height="516" alt="image" src="https://github.com/user-attachments/assets/d58f64a4-e9e2-4996-9f48-079b3ee32bb4" />
 
 ## 5.Find the highest-priced product for each category name.
 <img width="1157" height="600" alt="image" src="https://github.com/user-attachments/assets/a953d893-c9f8-45a8-b0ca-a163c1593caa" />
@@ -58,7 +58,7 @@ This project analyzes Jenson USA sales data to identify business insights, custo
 <img width="1141" height="599" alt="image" src="https://github.com/user-attachments/assets/8877b9ca-d534-4ccf-a02d-bf1523ab292a" />
 
 ## 7.Find the names of staff members who have not made any sales.
-<img width="1048" height="594" alt="image" src="https://github.com/user-attachments/assets/8c6028ae-7de7-488d-b224-cb66488c28d5" />
+<img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/4fcf7fdc-59d9-4ab7-b307-c8ba1ec169f6" />
 
 ## 8.Find the top 3 most sold products in terms of quantity.
 <img width="1041" height="558" alt="image" src="https://github.com/user-attachments/assets/c55a82e3-5952-400a-b00b-8e5b7e3353da" />
